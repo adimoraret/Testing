@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DerivedTests.Validator
+﻿namespace DerivedTests.Validator
 {
     public class TwitterMessageValidator : MessageValidator
     {
